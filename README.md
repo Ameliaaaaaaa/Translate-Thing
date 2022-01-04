@@ -5,6 +5,9 @@
 # Translate Thing
 A bot that instantly translates messages on Discord.
 
+Here is a lil preview.
+![Preview](https://i.imgur.com/5mLpEED.gif)
+
 # Setup
 All you need to do is install NodeJS if you do not have it already. Once you have that done, you can edit the `config.json` file.
 You will then need to install all dependencies using `npm install`.

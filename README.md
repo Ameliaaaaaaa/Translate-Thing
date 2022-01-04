@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a3/1f/b9/a31fb97e3fa0e59aa000b5a8650f8329.gif" alt="Noel">
-</p>
-
-<p align="center">
     <img src="https://readme-jokes.vercel.app/api"/>
 </p>
 
